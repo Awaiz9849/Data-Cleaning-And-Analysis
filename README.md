@@ -1,4 +1,5 @@
 # Data-Cleaning-And-Analysis
+# Customer Appoinment NO Shows
 picked the data set kaggle and cleaned and processed.
 The dataset was sourced from Kaggle and cleaned and processed using Microsoft Excel. Initially, the data was reviewed for completeness and consistency. Missing values were identified using Excel’s Filter and Conditional Formatting tools. For numerical columns, missing entries were filled using the average or median of the column, while missing text values were replaced with "Unknown" or an appropriate default. Duplicate rows were removed using the Remove Duplicates function to ensure data integrity.
 
